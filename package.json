@@ -16,9 +16,9 @@
     "test": "mocha"
   },
   "dependencies": {
-    "through2": "^2.0.0",
-    "gulp-util": "^3.0.0",
-    "applause": "1.1.0"
+    "through2": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "applause": "https://github.com/artem-malko/applause/archive/master.tar.gz"
   },
   "devDependencies": {
     "mocha": "^2.2.0"
